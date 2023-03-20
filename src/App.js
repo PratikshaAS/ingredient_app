@@ -45,7 +45,7 @@ const getSearch=e=>{
       ))}
       </div>
       
-      <footer className="footer">Made with 💓 by princepratikk</footer>
+      <footer className="footer">Made with 💓 by pratiksha</footer>
     </div>
   );
 };
